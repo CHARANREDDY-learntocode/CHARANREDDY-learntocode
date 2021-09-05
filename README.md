@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHARANREDDY-learntocode
 - 👀 I’m interested in Web Development, Internet of Things and application development too.
 - 🌱 I’m currently learning flask.
-- 💞️ I’m looking to collaborate on web development and applicaon development.
+- 💞️ I’m looking to collaborate on web development and application development.
 - 📫 you can reach me at gcharanreddy2000@gmail.com.
 
 <!---
